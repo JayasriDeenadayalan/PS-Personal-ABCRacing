@@ -1,4 +1,4 @@
-#E2E Architecture Documentation
+# E2E Architecture Documentation
 
 ## Overview
 
