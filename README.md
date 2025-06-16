@@ -21,14 +21,14 @@ Author: Jayasri Panneerselvam
 
  
 Index
-Problem Statement …………………………………………………………………………………………………………………3
-Problem Breakdown-Technical Terminology………………………………………………………………………………….3	
-Assumptions for the solution ………………………………………………………………………………………………………3	
-Technical Considerations …………………………………………………………………………………………………………….5
-    Performance Optimization ……………………………………………………………………………………………………….5
+Problem Statement ………………………………………………………………………………………………………3
+Problem Breakdown-Technical Terminology…………………………………………………………………3	
+Assumptions for the solution ……………………………………………………………………………………………3	
+Technical Considerations …………………………………………………………………………………………………………5
+    Performance Optimization …………………………………………………………………………………………………5
      Accessibility………………………………………………………………………………………………………………………………5
      Graceful Degradation………………………………………………………………………………………………………………..6
-     ScalabilityExtensibility ………………………………………………………………………………………………………………6    
+     ScalabilityExtensibility …………………………………………………………………………………………………6    
      Analytics…………………………………………………………………………………………………………………………………..6
      Offline Viewing …………………………………………………………………………………………………………………………6
     Recommendations………………………………………………………………………………………………………………6
